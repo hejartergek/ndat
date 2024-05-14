@@ -1,0 +1,10 @@
+﻿  Kaynak.cpp
+C:\Users\90541\Desktop\Project9\Project9\Kaynak.cpp(37,69): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\90541\Desktop\Project9\Project9\Kaynak.cpp(37,53): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\90541\Desktop\Project9\Project9\Kaynak.cpp(37,39): warning C4244: 'bağımsız değişken': 'const int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\90541\Desktop\Project9\Project9\Kaynak.cpp(37,28): warning C4244: 'bağımsız değişken': 'const int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\90541\Desktop\Project9\Project9\Kaynak.cpp(91,45): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\90541\Desktop\Project9\Project9\Kaynak.cpp(91,33): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\90541\Desktop\Project9\Project9\Kaynak.cpp(91,20): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\90541\Desktop\Project9\Project9\Kaynak.cpp(91,13): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+  Project9.vcxproj -> C:\Users\90541\Desktop\Project9\x64\Debug\Project9.exe
